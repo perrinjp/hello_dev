@@ -1,2 +1,2 @@
 # hello_dev
-to use with papeline
+to use with pipeline with branch dev_pipeline
