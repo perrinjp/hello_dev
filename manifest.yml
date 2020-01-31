@@ -1,7 +1,7 @@
 ---
 applications:
 - name: springbootConcourseApp
-  path: demo.jar
+  path: ../../demo.jar
   disk: 256M
   memory: 256M
   random-route: true
